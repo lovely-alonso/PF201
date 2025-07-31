@@ -31,7 +31,7 @@ public class Alonso {
         int totalmarks= sci+his+mat+soc+art;
         double percentage= totalmarks / 5.0;
         
-        String remarks:
+        String remarks;
         if (percentage < 70 ) {
             
             remarks = "Fail";
